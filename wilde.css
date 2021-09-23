@@ -42,3 +42,9 @@
 tr:nth-of-type(even) {
     background-color: #c9c6c6;
     }
+
+.name:hover{
+        text-shadow: 3px 3px rgb(65, 208, 170);
+        border-style: inset;
+        border-color: rgb(203, 202, 213);
+    }
