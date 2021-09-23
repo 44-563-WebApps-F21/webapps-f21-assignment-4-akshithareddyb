@@ -48,3 +48,26 @@ tr:nth-of-type(even) {
         border-style: inset;
         border-color: rgb(203, 202, 213);
     }
+
+    ul.navbar-horizontal 
+    {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li 
+    {
+        float:left; 
+        color:#000;
+        background-color:rgb(255, 138, 13);
+    }
+    ul.navbar-horizontal a 
+        {
+            display:block;
+            padding:8px;
+        }
+            ul.navbar-horizontal a:hover
+             { 
+                  background-color: rgb(110, 110, 73);color:white;
+                }
+            
