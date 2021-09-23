@@ -1,0 +1,29 @@
+.speech{
+    font-family: Georgia,'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+.stage_directions{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    background-color: rgb(151, 172, 179);
+    color: black;
+    
+}
+.name{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
+    color: black;
+}
+.hover:hover{
+    background-color: rgb(253, 195, 4);
+    color: rgb(53, 33, 43);
+}
+.lord_goring{
+    color: rgb(241, 66, 43);
+
+}
+.sirrobertchiltern{
+    color: rgb(5, 168, 223);
+  
+}
